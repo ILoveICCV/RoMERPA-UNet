@@ -53,7 +53,7 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs 
 
 ### 2. Prepare Datasets
 
-- Download datasets: ISIC2018 from this [link](https://challenge.isic-archive.com/data/#2018), and PH2 from this [link](https://www.dropbox.com/scl/fi/epzcoqeyr1v9qlv/PH2Dataset.rar?rlkey=6mt2jlvwfkditkyg12xdei6ux&e=1), Kvasir from this[link](https://link.zhihu.com/?target=https%3A//datasets.simula.no/downloads/kvasir-seg.zip), BUSI from this [link](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset), CVC-ClinkDB from this [link](https://www.kaggle.com/datasets/balraj98/cvcclinicdb?resource=download), Moun-Seg from this [link](https://www.kaggle.com/datasets/tuanledinh/monuseg2018), and COVID-19 from this [link](https://drive.usercontent.google.com/download?id=1FHx0Cqkq9iYjEMN3Ldm9FnZ4Vr1u3p-j&export=download&authuser=0).
+- Download datasets: [link](https://challenge.isic-archive.com/data/#2018), [link](https://www.dropbox.com/scl/fi/epzcoqeyr1v9qlv/PH2Dataset.rar?rlkey=6mt2jlvwfkditkyg12xdei6ux&e=1), [link](https://link.zhihu.com/?target=https%3A//datasets.simula.no/downloads/kvasir-seg.zip), [link](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset), [link](https://www.kaggle.com/datasets/balraj98/cvcclinicdb?resource=download), [link](https://www.kaggle.com/datasets/tuanledinh/monuseg2018), and [link](https://drive.usercontent.google.com/download?id=1FHx0Cqkq9iYjEMN3Ldm9FnZ4Vr1u3p-j&export=download&authuser=0).
 
 
 - Folder organization: put datasets into ./data/datasets folder.
