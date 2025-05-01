@@ -84,7 +84,7 @@ concrete information see test.py, please
 </div>
 
 <div align="center">
-    We compare our method against twelve state-of-the-art methods, evaluating segmentation performance on the ISIC2018, Kvasir, Monu-Seg, COVID-19, and BUSI datasets, and assessing generalization on the PH2 and CVC-ClinkDB datasets.
+    We compare our method against twelve state-of-the-art methods, evaluating segmentation performance.
 </div>
 
 
